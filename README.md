@@ -1,4 +1,4 @@
-<h1 align="center">GLACXY N</h1>
+<h1 align="center">KANIMOZHI R</h1>
 <h3 align="center">DSA Enthusiast | Full Stack Developer</h3>## Hi there 👋
 
 <!--
