@@ -14,9 +14,9 @@
 
 | Platform | Problems Solved | Rating |
 |--------|----------------|--------|
-| LeetCode | 250 | 1448 |
-| CodeChef | 1050 | 1250 |
-| Codeforces | 7 | 1004 |
+| LeetCode | 350 | 1516 |
+| CodeChef | 1150 | 1264 |
+| Codeforces | 10 | 1004 |
 | GeeksforGeeks | 65+ | — |
 
 ## 🛠️ Technical Skills
